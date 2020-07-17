@@ -1,2 +1,2 @@
 # xunbao
-Online treasure hunt for FEST Culmyca 2k18
+Online treasure hunt for FEST Culmyca 2k20
